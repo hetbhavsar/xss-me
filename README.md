@@ -13,3 +13,5 @@ https://www.youtube.com/watch?v=pltxnGlGFMc
 ## References
 
 https://www.owasp.org/index.php/Cross-site_Scripting_(XSS)
+
+application is simple to use 
